@@ -1,0 +1,2 @@
+body{background-color:#cebfbf}li{list-style:outside;padding:10px 0}.item{width:-webkit-max-content;width:max-content}button{width:80px;border-radius:5%}.buttonToAdd{background-color:#4ed859}.buttonToRemove{background-color:#d84e4e}.added .buttonToAdd{display:none}.added .item{background-color:#00ff4c}.notAdded .buttonToRemove{display:none}.visibleButtonToClear{background-color:red;opacity:1}.unvisibleButtonToClear{opacity:0}
+/*# sourceMappingURL=main.19ccc73a.chunk.css.map */
